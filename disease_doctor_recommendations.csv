@@ -1,0 +1,101 @@
+Patient ID,Disease,Doctor Name,Specialty,Hospital
+P001,Hypertension,Sophia Miller,Rheumatologist,Metropolitan Clinic
+P002,Hypertension,Sophia Garcia,Pulmonologist,Green Valley Medical Center
+P003,Anxiety,Michael Martinez,Neurologist,Lakeside Hospital
+P004,Depression,Sophia Martinez,Endocrinologist,Green Valley Medical Center
+P005,Chronic Pain,Emily Miller,General Physician,Lakeside Hospital
+P006,Hypertension,David Jones,Immunologist,Lakeside Hospital
+P007,Diabetes,John Garcia,Endocrinologist,Downtown Health Center
+P008,Diabetes,Emma Brown,Rheumatologist,Metropolitan Clinic
+P009,Hypertension,Emily Johnson,General Physician,Metropolitan Clinic
+P010,Thyroid Disorder,Robert Jones,Immunologist,Lakeside Hospital
+P011,Depression,Olivia Davis,Cardiologist,Green Valley Medical Center
+P012,Arthritis,James Garcia,Rheumatologist,City General Hospital
+P013,Arthritis,Emma Hernandez,Rheumatologist,Green Valley Medical Center
+P014,Heart Disease,David Williams,Cardiologist,Green Valley Medical Center
+P015,Hypertension,Olivia Williams,Immunologist,Metropolitan Clinic
+P016,Asthma,James Garcia,Neurologist,Metropolitan Clinic
+P017,Hypertension,Emma Garcia,Psychiatrist,Green Valley Medical Center
+P018,Thyroid Disorder,Olivia Smith,Pulmonologist,Green Valley Medical Center
+P019,Asthma,Alice Davis,Neurologist,Green Valley Medical Center
+P020,Arthritis,Olivia Williams,Endocrinologist,Lakeside Hospital
+P021,Heart Disease,Olivia Martinez,Rheumatologist,City General Hospital
+P022,Chronic Pain,Robert Hernandez,Endocrinologist,Lakeside Hospital
+P023,Thyroid Disorder,Olivia Jones,Neurologist,Metropolitan Clinic
+P024,Depression,Alice Hernandez,Cardiologist,Wellness Hospital
+P025,Diabetes,David Smith,General Physician,Green Valley Medical Center
+P026,Hypertension,Robert Jones,Pulmonologist,Downtown Health Center
+P027,Anxiety,Michael Jones,Cardiologist,Green Valley Medical Center
+P028,Depression,Emily Garcia,General Physician,Sunnybrook Clinic
+P029,Diabetes,John Miller,Neurologist,Wellness Hospital
+P030,Allergies,Michael Miller,Pulmonologist,Metropolitan Clinic
+P031,Chronic Pain,David Miller,General Physician,Metropolitan Clinic
+P032,Thyroid Disorder,Emily Martinez,Neurologist,Metropolitan Clinic
+P033,Heart Disease,Robert Martinez,General Physician,Green Valley Medical Center
+P034,Anxiety,Michael Garcia,Immunologist,Metropolitan Clinic
+P035,Depression,Robert Miller,Neurologist,Sunnybrook Clinic
+P036,Chronic Pain,John Brown,Endocrinologist,Sunnybrook Clinic
+P037,Depression,Sophia Martinez,Pulmonologist,Downtown Health Center
+P038,Thyroid Disorder,Emma Johnson,Psychiatrist,Sunnybrook Clinic
+P039,Allergies,Emma Johnson,General Physician,Wellness Hospital
+P040,Chronic Pain,Olivia Garcia,Pulmonologist,City General Hospital
+P041,Heart Disease,Michael Jones,Immunologist,Sunnybrook Clinic
+P042,Chronic Pain,Alice Smith,Endocrinologist,Sunnybrook Clinic
+P043,Diabetes,Alice Johnson,Pulmonologist,Green Valley Medical Center
+P044,Asthma,Michael Garcia,Psychiatrist,Lakeside Hospital
+P045,Diabetes,David Williams,General Physician,Sunnybrook Clinic
+P046,Diabetes,Sophia Davis,General Physician,Lakeside Hospital
+P047,Allergies,Emily Martinez,Cardiologist,Metropolitan Clinic
+P048,Anxiety,Michael Williams,Rheumatologist,Lakeside Hospital
+P049,Depression,David Jones,Immunologist,City General Hospital
+P050,Chronic Pain,Alice Johnson,Cardiologist,Green Valley Medical Center
+P051,Arthritis,Olivia Johnson,Psychiatrist,City General Hospital
+P052,Anxiety,David Miller,Neurologist,Wellness Hospital
+P053,Allergies,John Smith,Neurologist,Sunnybrook Clinic
+P054,Depression,Emma Smith,Immunologist,City General Hospital
+P055,Arthritis,Emma Brown,Rheumatologist,Green Valley Medical Center
+P056,Depression,James Martinez,Pulmonologist,Lakeside Hospital
+P057,Arthritis,David Martinez,General Physician,Metropolitan Clinic
+P058,Arthritis,Michael Smith,Neurologist,Lakeside Hospital
+P059,Depression,Michael Smith,Pulmonologist,Sunnybrook Clinic
+P060,Diabetes,Emily Miller,Pulmonologist,Wellness Hospital
+P061,Depression,John Williams,Rheumatologist,Metropolitan Clinic
+P062,Chronic Pain,John Williams,Cardiologist,Wellness Hospital
+P063,Asthma,John Smith,Immunologist,City General Hospital
+P064,Heart Disease,Emma Hernandez,Endocrinologist,Downtown Health Center
+P065,Allergies,Emma Brown,Cardiologist,Sunnybrook Clinic
+P066,Chronic Pain,Olivia Jones,Rheumatologist,Wellness Hospital
+P067,Anxiety,John Johnson,Endocrinologist,Lakeside Hospital
+P068,Arthritis,David Jones,General Physician,City General Hospital
+P069,Heart Disease,Alice Martinez,Rheumatologist,Wellness Hospital
+P070,Allergies,Robert Miller,Psychiatrist,City General Hospital
+P071,Thyroid Disorder,Alice Miller,Endocrinologist,Green Valley Medical Center
+P072,Anxiety,Olivia Smith,General Physician,Lakeside Hospital
+P073,Diabetes,John Garcia,Endocrinologist,Downtown Health Center
+P074,Asthma,Sophia Johnson,Endocrinologist,Downtown Health Center
+P075,Diabetes,James Garcia,Cardiologist,City General Hospital
+P076,Asthma,Emily Miller,Psychiatrist,City General Hospital
+P077,Anxiety,Emma Hernandez,Neurologist,Wellness Hospital
+P078,Chronic Pain,Robert Martinez,Neurologist,Lakeside Hospital
+P079,Arthritis,John Williams,Rheumatologist,Metropolitan Clinic
+P080,Chronic Pain,Emma Williams,Cardiologist,Green Valley Medical Center
+P081,Chronic Pain,Sophia Martinez,Psychiatrist,Sunnybrook Clinic
+P082,Chronic Pain,Emily Williams,Neurologist,Sunnybrook Clinic
+P083,Anxiety,David Miller,Psychiatrist,Metropolitan Clinic
+P084,Chronic Pain,Emily Davis,General Physician,Sunnybrook Clinic
+P085,Anxiety,James Miller,Endocrinologist,City General Hospital
+P086,Asthma,David Martinez,Cardiologist,Wellness Hospital
+P087,Anxiety,David Hernandez,General Physician,Lakeside Hospital
+P088,Diabetes,Emily Jones,Pulmonologist,City General Hospital
+P089,Diabetes,Michael Miller,Endocrinologist,Wellness Hospital
+P090,Thyroid Disorder,Robert Hernandez,Cardiologist,Sunnybrook Clinic
+P091,Allergies,Emma Davis,Endocrinologist,Wellness Hospital
+P092,Hypertension,Michael Smith,Psychiatrist,Sunnybrook Clinic
+P093,Hypertension,John Williams,Neurologist,Lakeside Hospital
+P094,Allergies,John Johnson,Neurologist,City General Hospital
+P095,Hypertension,David Hernandez,Psychiatrist,Downtown Health Center
+P096,Anxiety,Olivia Martinez,Immunologist,Wellness Hospital
+P097,Diabetes,Michael Jones,Rheumatologist,Sunnybrook Clinic
+P098,Anxiety,James Williams,Pulmonologist,Downtown Health Center
+P099,Diabetes,Alice Davis,Neurologist,Downtown Health Center
+P100,Arthritis,Michael Johnson,Endocrinologist,Wellness Hospital
